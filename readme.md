@@ -1,8 +1,6 @@
 Theme designed by Ruckage
 Optimized and improved by BroskiPlays
 edited for RG351V by RetroBenny as well as added systems and changed BG's
-Version 1.0
-12-01-2022
 
 Theme based on the NES Mini Theme made by Ruckage optimized for 3:2 devices.
 
