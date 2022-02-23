@@ -19,7 +19,7 @@ https://github.com/ruckage/es-theme-nes-mini
 
 Screenshots:
 -------------------------------------------------------------------------------  
-[![Image from Gyazo] (https://i.gyazo.com/8a2f9256c55502794dae692e8d62fe75.png)
+https://i.gyazo.com/8a2f9256c55502794dae692e8d62fe75.png
 
 Supported Systems:
 -------------------------------------------------------------------------------  
@@ -84,6 +84,13 @@ amiga
 pc engine cd
 msx
 msx2
+Added by Retro Benny 
+Sega Saturn
+Retroarch
+Options
+Retropie
+Tic-80
+
 
 Changelog
 -------------------------------------------------------------------------------  
