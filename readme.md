@@ -19,6 +19,9 @@ Screenshots:
 -------------------------------------------------------------------------------  
 https://i.gyazo.com/8a2f9256c55502794dae692e8d62fe75.png
 
+More Previews
+https://www.reddit.com/r/rg351v/comments/s57wb0/rg351v_remixed_and_reformatted_nes_box_and_nes/
+
 Supported Systems:
 -------------------------------------------------------------------------------  
 
