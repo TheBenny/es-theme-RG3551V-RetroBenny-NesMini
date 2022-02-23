@@ -9,13 +9,7 @@ Theme based on the NES Mini Theme made by Ruckage optimized for 3:2 devices.
 Summary
 --------------------------------------------------------------------------------
 
-This 351Elec theme is a port of the NES Mini theme made by Ruckage and adds a couple of new things which the original didn't have. 
-
-Currently this theme is best suited for 3:4 screen devices only. This means that the RG351P and any other 3:4 aspect ratio devices 
-are gonna benefit from this the most. Other devices do work but text and other stuff might look out of place. 
-I am currently thinking about making RG351V and RG352 versions aswell. This Theme works also in ArkOS but it is meant to be used on 
-the 351Elec devices. This theme will be available on the Themes section of 351Elec itself but until then you can download it from the github here. 
-Thanks for your time and i hope you like this theme.
+This theme has been edited to fit 4:3 displays by retroBenny, he has also changed the backgrounds to include backdrops from each system though some have been left unchanged
 
 Credits go to Ruckage for the original theme, antfortytwo for helping out and Cebion & the rest of the 351Elec dev team for uploading this to the 351Elec Themes Repo.
 
