@@ -19,7 +19,7 @@ https://github.com/ruckage/es-theme-nes-mini
 
 Screenshots:
 -------------------------------------------------------------------------------  
-[![Image from Gyazo] (https://gyazo.com/8a2f9256c55502794dae692e8d62fe75)
+[![Image from Gyazo] (https://i.gyazo.com/8a2f9256c55502794dae692e8d62fe75.png)
 
 Supported Systems:
 -------------------------------------------------------------------------------  
