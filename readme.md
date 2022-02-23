@@ -90,7 +90,8 @@ Retroarch
 Options
 Retropie
 Tic-80
-
+snes hacks
+game boy color hacks
 
 Changelog
 -------------------------------------------------------------------------------  
