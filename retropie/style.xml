@@ -1,0 +1,65 @@
+<theme>
+    <formatVersion>3</formatVersion>
+
+	
+
+	<view name="system">
+
+
+			
+	</view>
+	
+	<feature supported="carousel">
+
+		<view name="system">
+
+			
+			<image name="carousel_bar" extra="true">
+				<color>cc0000</color>
+			</image>
+		
+		</view>
+
+	</feature>
+
+	<view name="basic, detailed, video">
+	
+
+	
+		<rating name="md_rating">
+			<filledPath>./../art/heart_filled.png</filledPath>
+			<unfilledPath>./../art/heart_empty.png</unfilledPath>
+		</rating>
+		
+		<textlist name="gamelist">
+			<selectorColor>cc0000</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>cc0000</primaryColor>
+			<secondaryColor>ffff00</secondaryColor>
+		</textlist>
+		
+
+		
+
+	
+	
+		
+		<image name="player_box" extra="true">
+			<color>ffff00</color>		
+		</image>
+
+		<text name="publisher_label, developer_label, genre_label, rating_label, played_label" extra="true">
+			<color>ffff00</color>
+		</text>
+
+		<datetime name="md_releasedate">
+			<color>ffff00</color>
+		</datetime>	
+
+		
+		
+	
+
+	</view>
+	
+</theme>
